@@ -1,0 +1,17 @@
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\bin\Debug\net6.0\CapacitacionDdd.Core.Infraestructure.deps.json
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\bin\Debug\net6.0\CapacitacionDdd.Core.Infraestructure.dll
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\bin\Debug\net6.0\CapacitacionDdd.Core.Infraestructure.pdb
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\bin\Debug\net6.0\CapacitacionDdd.Core.Application.dll
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\bin\Debug\net6.0\CapacitacionDdd.Core.Domain.dll
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\bin\Debug\net6.0\CapacitacionDdd.Core.Application.pdb
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\bin\Debug\net6.0\CapacitacionDdd.Core.Domain.pdb
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\obj\Debug\net6.0\CapacitacionDdd.Core.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\obj\Debug\net6.0\CapacitacionDdd.Core.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\obj\Debug\net6.0\CapacitacionDdd.Core.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\obj\Debug\net6.0\CapacitacionDdd.Core.Infraestructure.AssemblyInfo.cs
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\obj\Debug\net6.0\CapacitacionDdd.Core.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\obj\Debug\net6.0\Capacita.16E726FF.Up2Date
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\obj\Debug\net6.0\CapacitacionDdd.Core.Infraestructure.dll
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\obj\Debug\net6.0\refint\CapacitacionDdd.Core.Infraestructure.dll
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\obj\Debug\net6.0\CapacitacionDdd.Core.Infraestructure.pdb
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Infraestructure\obj\Debug\net6.0\ref\CapacitacionDdd.Core.Infraestructure.dll
