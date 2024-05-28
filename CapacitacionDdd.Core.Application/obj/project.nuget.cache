@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TXvvGTYWMY7m0Jl/CMrd/+H+t4MqJ9dRtQfhlT5IrOn5EMPAu5lCXneDlM6TZQ+70aAGS8lXFeNvnvkY1yDmig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gioim\\source\\repos\\CapacitacionDdd\\CapacitacionDdd.Core.Application\\CapacitacionDdd.Core.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gioim\\.nuget\\packages\\mediatr\\6.0.0\\mediatr.6.0.0.nupkg.sha512",
+    "C:\\Users\\gioim\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\5.1.0\\mediatr.extensions.microsoft.dependencyinjection.5.1.0.nupkg.sha512",
+    "C:\\Users\\gioim\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

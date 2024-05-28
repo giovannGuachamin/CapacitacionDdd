@@ -1,0 +1,15 @@
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\bin\Debug\net6.0\CapacitacionDdd.Core.Application.deps.json
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\bin\Debug\net6.0\CapacitacionDdd.Core.Application.dll
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\bin\Debug\net6.0\CapacitacionDdd.Core.Application.pdb
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\bin\Debug\net6.0\CapacitacionDdd.Core.Domain.dll
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\bin\Debug\net6.0\CapacitacionDdd.Core.Domain.pdb
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\obj\Debug\net6.0\CapacitacionDdd.Core.Application.csproj.AssemblyReference.cache
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\obj\Debug\net6.0\CapacitacionDdd.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\obj\Debug\net6.0\CapacitacionDdd.Core.Application.AssemblyInfoInputs.cache
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\obj\Debug\net6.0\CapacitacionDdd.Core.Application.AssemblyInfo.cs
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\obj\Debug\net6.0\CapacitacionDdd.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\obj\Debug\net6.0\Capacita.0475C91E.Up2Date
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\obj\Debug\net6.0\CapacitacionDdd.Core.Application.dll
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\obj\Debug\net6.0\refint\CapacitacionDdd.Core.Application.dll
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\obj\Debug\net6.0\CapacitacionDdd.Core.Application.pdb
+C:\Users\gioim\source\repos\CapacitacionDdd\CapacitacionDdd.Core.Application\obj\Debug\net6.0\ref\CapacitacionDdd.Core.Application.dll
