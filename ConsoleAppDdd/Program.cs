@@ -59,7 +59,7 @@ Console.WriteLine("El Autor actualizado es: " + resultAuthorUpdateQuery.Name);
 
 #region Obtener Autor por Codigo
 
-GetAuthorByCodeQuery getAuthorByCodeQuery = new("A3");
+GetAuthorByCodeQuery getAuthorByCodeQuery = new("A2");
 var resultAuthorByCodeQuery = await mediator.Send(getAuthorByCodeQuery);
 Console.WriteLine("El Autor encontrado por código es: " + resultAuthorByCodeQuery.Name);
 
